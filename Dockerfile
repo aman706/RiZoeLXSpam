@@ -10,7 +10,7 @@ COPY RiZoel .
 RUN bash Rizoel
 
 # changing workdir
-WORKDIR "/root/TeamUltroid"
+WORKDIR "/root/aman706"
 
 # start the bot.
 CMD ["bash", "startup"]
